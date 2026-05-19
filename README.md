@@ -4,7 +4,6 @@ An AI-powered Smart Irrigation Dashboard designed to monitor farm conditions in 
 
 The system helps optimize water usage, reduce wastage, and improve agricultural efficiency through real-time monitoring and intelligent automation.
 
----
 
 ## 🚀 Features
 
@@ -44,7 +43,6 @@ The system helps optimize water usage, reduce wastage, and improve agricultural 
 - Interactive sensor cards
 - Modern dashboard UI
 
----
 
 # 🛠 Technology Stack
 
@@ -67,7 +65,7 @@ The system helps optimize water usage, reduce wastage, and improve agricultural 
 - **Google Generative AI API**
 - **AI-based scheduling engine**
 
----
+
 
 # 📂 Project Structure
 
@@ -87,7 +85,7 @@ smart-irrigation-dashboard/
 └── package.json
 ```
 
----
+
 
 # ⚙️ Installation & Setup
 
@@ -115,7 +113,7 @@ VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
 VITE_GEMINI_API_KEY=your_google_genai_api_key
 ```
 
----
+
 
 ## Start Development Server
 
@@ -129,7 +127,7 @@ Application runs at:
 http://localhost:3000
 ```
 
----
+
 
 # 📡 Hardware Integration
 
@@ -144,7 +142,7 @@ This project supports:
 
 Data collected from sensors is transmitted to Supabase and visualized on the dashboard.
 
----
+
 
 # 🔄 Workflow
 
@@ -158,17 +156,20 @@ Sensors → ESP32 → Supabase Database
          Smart Irrigation Action
 ```
 
----
+
 
 # 📷 Dashboard Preview
 
 Add screenshots here:
 
 ```md
-![Dashboard](images/dashboard.png)
+![Dashboard](images/dashboard.png)<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5479e483-3466-4a17-a90c-1bf0c58e7689" /><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/972bbfcb-33df-454f-a7c7-ab6bc0239755" /><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1b6f0a5c-aae4-46f4-9a9c-d8960b5b47a1" />
+
+
+
 ```
 
----
+
 
 # 🎯 Future Enhancements
 
@@ -179,16 +180,16 @@ Add screenshots here:
 - Advanced weather forecasting
 - Crop-specific irrigation recommendations
 
----
+# 👥 Team Members
 
-# 👨‍💻 Author
+Developed as a collaborative team project focused on AI-driven smart agriculture and irrigation management.
 
-**Ananya**
+Team Members:
 
-Developed as an AI + IoT based Smart Agriculture project integrating real-time monitoring and intelligent irrigation management.
+- Soundariya S – Frontend Developer
+- Ananya M V – IoT & Hardware Developer
+- Priyanka S  – Backend & Database Developer
+- Yaminee Lakshaya – Testing & Documentation*
 
----
 
-# 📜 License
 
-This project is licensed under the MIT License.
