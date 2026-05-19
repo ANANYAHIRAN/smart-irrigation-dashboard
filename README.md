@@ -156,21 +156,6 @@ Sensors → ESP32 → Supabase Database
          Smart Irrigation Action
 ```
 
-
-
-# 📷 Dashboard Preview
-
-Add screenshots here:
-
-```md
-![Dashboard](images/dashboard.png)<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5479e483-3466-4a17-a90c-1bf0c58e7689" /><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/972bbfcb-33df-454f-a7c7-ab6bc0239755" /><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1b6f0a5c-aae4-46f4-9a9c-d8960b5b47a1" />
-
-
-
-```
-
-
-
 # 🎯 Future Enhancements
 
 - Mobile application integration
