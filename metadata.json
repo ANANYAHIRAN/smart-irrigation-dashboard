@@ -1,0 +1,8 @@
+
+{
+  "name": "Smart Irrigation Dashboard",
+  "description": "A dashboard for a solar-powered smart irrigation system with AI scheduling and IoT monitoring. It displays real-time sensor data, historical trends, AI-powered recommendations, and system controls.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
