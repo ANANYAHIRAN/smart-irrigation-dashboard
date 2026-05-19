@@ -174,7 +174,7 @@ Team Members:
 - Soundariya S – Frontend Developer
 - Ananya M V – IoT & Hardware Developer
 - Priyanka S  – Backend & Database Developer
-- Yaminee Lakshaya – Testing & Documentation*
+- Yaminee Lakshaya S – Testing & Documentation*
 
 
 
